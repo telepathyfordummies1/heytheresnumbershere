@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LOG 1</title>
+
+<style>
+    body {
+        background: #ffffff;
+        font-family: "Courier New", monospace;
+        padding: 40px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .log-box {
+        width: 90%;
+        max-width: 1200px;
+        border: 4px solid #e9a8f5;
+        padding: 40px;
+        color: #d18ce8;
+        font-size: 22px;
+        line-height: 1.6;
+        white-space: pre-wrap;
+        box-shadow: 0 0 8px #e9a8f5;
+    }
+
+    .prompt {
+        margin-top: 40px;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+</style>
+</head>
+<body>
+
+<div class="log-box">
+[LOG 1 // One // 375290:04:24:26]
+
+> I can still hear Tammy’s laugh echoing in Sector E. I won’t mute it.
+
+> I don’t want to forget.
+
+<span class="prompt">&gt;&gt;&gt;...</span>
+</div>
+
+</body>
+</html>
